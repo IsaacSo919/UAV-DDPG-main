@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+ddpg_env/
+
+# Large output files
+output.txt
